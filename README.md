@@ -12,7 +12,7 @@
 &nbsp;
 ## Используемые языки, технологии, пакеты:
 -	React JS (Hooks), HTML, SCSS
-- Create-react-app, axios, bootstrap, uuid
+- Create-react-app,  bootstrap, uuid
 
 &nbsp;
 ## Реализация функционала и логики
